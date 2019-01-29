@@ -37,6 +37,21 @@ Functional programming is designed to handle symbolic computation. Functional pr
 - Functional Programming supports **high-order functons** and **lazy evaluation** features
 - States are Immutable
 
+# Functional Programming vs Object-oriented Programming
+
+Functional Programming | Object-oriented Programming
+--- | --- | ---
+Uses Immutable data | Use Mutable data
+Follows Declarative Programming | Follows Imperative Programming Model
+Focus is on "What you are doing" | Focus on "How you are doing"
+Supports parallel programming | Not suitable for parallel programming
+Its function has no side-effects | It function can produce serious side-effects
+Flow control is done using function calls & function calls with recursion | Flow controls is done using loops and conditional statements
+It uses Recursion concept to iterate Collection Data | It uses Loop concept to iterate Collection Data. For example, `for-each` in Java
+Execution order of statements is not so important | Execution order of statements is very important
+Supports both "Abstraction over behavior" and "Abstraction over data" | Supports only "Abstraction over data"
+
+
 # Reference
 
 - [Wiki](https://en.wikipedia.org/wiki/Programming_paradigm)
