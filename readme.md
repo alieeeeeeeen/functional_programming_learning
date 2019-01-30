@@ -36,12 +36,13 @@ Functional programming is designed to handle symbolic computation. Functional pr
 
 - Functional Programming supports **high-order functons** and **lazy evaluation** features
 - States are Immutable
+- Lazy evaluation - which delays the evaluation of the an expression until its value is needed
 
 # Functional Programming vs Object-oriented Programming
 
 Functional Programming | Object-oriented Programming
 --- | ---
-Uses Immutable data | Use Mutable data
+Use Immutable data | Use Mutable data
 Follows Declarative Programming | Follows Imperative Programming Model
 Focus is on "What you are doing" | Focus on "How you are doing"
 Supports parallel programming | Not suitable for parallel programming
@@ -51,7 +52,7 @@ It uses Recursion concept to iterate Collection Data | It uses Loop concept to i
 Execution order of statements is not so important | Execution order of statements is very important
 Supports both "Abstraction over behavior" and "Abstraction over data" | Supports only "Abstraction over data"
 
-# Reference
+# References
 
 - [Wiki](https://en.wikipedia.org/wiki/Programming_paradigm)
 - [Wiki](https://en.wikipedia.org/wiki/Immutable_object)
