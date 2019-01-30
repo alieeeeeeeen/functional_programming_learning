@@ -51,7 +51,6 @@ It uses Recursion concept to iterate Collection Data | It uses Loop concept to i
 Execution order of statements is not so important | Execution order of statements is very important
 Supports both "Abstraction over behavior" and "Abstraction over data" | Supports only "Abstraction over data"
 
-
 # Reference
 
 - [Wiki](https://en.wikipedia.org/wiki/Programming_paradigm)
