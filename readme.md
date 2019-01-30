@@ -42,9 +42,9 @@ Functional programming is designed to handle symbolic computation. Functional pr
 
 Functional Programming | Object-oriented Programming
 --- | ---
-Use Immutable data | Use Mutable data
+Uses Immutable data | Uses Mutable data
 Follows Declarative Programming | Follows Imperative Programming Model
-Focus is on "What you are doing" | Focus on "How you are doing"
+Focus is on "What you are doing" | Focus is on "How you are doing"
 Supports parallel programming | Not suitable for parallel programming
 Its function has no side-effects | It function can produce serious side-effects
 Flow control is done using function calls & function calls with recursion | Flow controls is done using loops and conditional statements
