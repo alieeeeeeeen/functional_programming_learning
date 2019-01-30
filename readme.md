@@ -40,7 +40,7 @@ Functional programming is designed to handle symbolic computation. Functional pr
 # Functional Programming vs Object-oriented Programming
 
 Functional Programming | Object-oriented Programming
------- | ------ | ------
+--- | --- | ---
 Uses Immutable data | Use Mutable data
 Follows Declarative Programming | Follows Imperative Programming Model
 Focus is on "What you are doing" | Focus on "How you are doing"
